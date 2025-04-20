@@ -1,0 +1,157 @@
+{
+  "app": {
+    "title": "Tamil Nadu Heritage Explorer"
+  },
+  "header": {
+    "siteName": "TN Heritage"
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "about": "About",
+    "profile": "Profile",
+    "language": "Language"
+  },
+  "voice": {
+    "enable": "Voice Assistant",
+    "disable": "Disable Voice",
+    "listening": "Listening...",
+    "speak": "Speak now"
+  },
+  "auth": {
+    "login": "Login",
+    "loginBtn": "Sign In",
+    "loginSubtitle": "Welcome back! Please sign in to your account",
+    "loggingIn": "Signing in...",
+    "logout": "Logout",
+    "createAccount": "Create Account",
+    "signupBtn": "Sign Up",
+    "signupSubtitle": "Join us to discover Tamil Nadu's rich cultural heritage",
+    "signingUp": "Creating account...",
+    "email": "Email Address",
+    "emailPlaceholder": "your.email@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "name": "Full Name",
+    "namePlaceholder": "Your full name",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account?",
+    "signupNow": "Sign up now",
+    "alreadyAccount": "Already have an account?",
+    "loginHere": "Login here",
+    "agreeTerms": "I agree to the",
+    "termsLink": "Terms and Conditions",
+    "errors": {
+      "allRequired": "All fields are required",
+      "passwordsMatch": "Passwords do not match",
+      "passwordLength": "Password must be at least 8 characters long",
+      "invalidCredentials": "Invalid email or password",
+      "signupFailed": "Failed to create account. Please try again.",
+      "general": "Something went wrong. Please try again."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Tamil Nadu's Rich Heritage",
+      "subtitle": "Explore ancient temples, historic monuments, and cultural wonders with personalized voice-guided tours",
+      "exploreBtn": "Explore Sites",
+      "voiceBtn": "Voice Guide",
+      "searchPlaceholder": "Search for heritage sites, temples, forts..."
+    },
+    "featuredSites": {
+      "title": "Featured Heritage Sites",
+      "subtitle": "Immerse yourself in the most iconic cultural landmarks of Tamil Nadu"
+    },
+    "categories": {
+      "title": "Browse by Category",
+      "subtitle": "Discover heritage sites based on your interests"
+    },
+    "popularSites": {
+      "title": "Popular Destinations",
+      "subtitle": "Most visited heritage sites in Tamil Nadu",
+      "viewAllBtn": "View All Destinations"
+    },
+    "testimonials": {
+      "title": "Visitor Experiences",
+      "subtitle": "Hear from others who have explored Tamil Nadu's heritage"
+    },
+    "cta": {
+      "title": "Begin Your Heritage Journey",
+      "description": "Create an account to save favorite sites, get personalized recommendations, and access exclusive voice guidance features.",
+      "button": "Sign Up Now"
+    }
+  },
+  "categories": {
+    "temples": "Temples",
+    "forts": "Forts & Palaces",
+    "monuments": "Monuments",
+    "museums": "Museums",
+    "religious": "Religious Sites",
+    "beaches": "Beaches & Coastal",
+    "cities": "Historic Cities",
+    "architecture": "Architecture"
+  },
+  "heritage": {
+    "visitBtn": "Plan Visit",
+    "voiceGuideBtn": "Voice Guide",
+    "bookmarkBtn": "Save",
+    "bookmarkedBtn": "Saved",
+    "overview": "Overview",
+    "history": "History",
+    "architecture": "Architecture",
+    "openingHours": "Opening Hours",
+    "entryFee": "Entry Fee",
+    "bestTime": "Best Time to Visit",
+    "nearbyAttractions": "Nearby Attractions",
+    "reviews": "Visitor Reviews",
+    "rating": "Rating",
+    "writeReview": "Write a Review",
+    "visitingTips": "Visiting Tips",
+    "readMore": "Read More",
+    "showLess": "Show Less"
+  },
+  "chatbot": {
+    "title": "Heritage Assistant",
+    "welcomeMessage": "Hello! I'm your Tamil Nadu Heritage Guide. How can I help you discover the cultural treasures of Tamil Nadu today?",
+    "inputPlaceholder": "Type your question...",
+    "responses": {
+      "greeting": "Hello! I'm here to help you explore Tamil Nadu's rich heritage. What would you like to know about?",
+      "temples": "Tamil Nadu is home to magnificent temples like Meenakshi Amman Temple in Madurai, Brihadeeswarar Temple in Thanjavur, and Shore Temple in Mahabalipuram. These temples showcase the exceptional Dravidian architecture. Would you like specific information about any of these temples?",
+      "forts": "Tamil Nadu has several historic forts including Vellore Fort, Gingee Fort (one of India's most impregnable forts), and Dindigul Fort. These structures tell stories of various kingdoms and their military strategies. What would you like to know more about?",
+      "museums": "The Government Museum in Chennai is one of the oldest in India. Other notable museums include the Fort Museum at Fort St. George and the Tamil Nadu Science and Technology Centre. These museums house artifacts dating back to ancient Tamil civilizations.",
+      "recommendations": "For first-time visitors, I recommend starting with the UNESCO World Heritage sites like the Great Living Chola Temples and monuments at Mahabalipuram. The Meenakshi Temple in Madurai is also a must-visit for its stunning architecture and cultural significance.",
+      "visitingHours": "Most heritage sites in Tamil Nadu are open from 6:00 AM to 6:00 PM. Temples often close in the afternoon from 1:00 PM to 4:00 PM. Museums typically operate from 9:30 AM to 5:00 PM and are closed on government holidays. Would you like information about a specific site?",
+      "thanks": "You're welcome! Enjoy exploring the rich cultural heritage of Tamil Nadu. Feel free to ask if you need any more information!",
+      "default": "That's an interesting question about Tamil Nadu's heritage. Would you like me to provide general information about popular heritage sites, or are you looking for something specific like temples, forts, or cultural festivals?"
+    }
+  },
+  "profile": {
+    "viewProfile": "My Profile",
+    "savedSites": "Saved Sites",
+    "recentVisits": "Recent Visits",
+    "preferences": "Preferences",
+    "accountSettings": "Account Settings",
+    "languagePreference": "Language Preference",
+    "notificationSettings": "Notification Settings"
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "Tamil Nadu Heritage Explorer is dedicated to showcasing the rich cultural heritage of Tamil Nadu through immersive and accessible digital experiences."
+    },
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "categories": {
+      "title": "Categories"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "123 Heritage Tower, Anna Salai, Chennai, Tamil Nadu 600002, India"
+    },
+    "copyright": "Tamil Nadu Heritage Explorer. All rights reserved."
+  }
+}
