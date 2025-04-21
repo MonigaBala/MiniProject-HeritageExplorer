@@ -47,7 +47,7 @@ const Home: React.FC = () => {
       <section className="relative h-screen flex items-center justify-center bg-gradient-to-r from-primary-900 to-primary-800 text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.pexels.com/photos/5329909/pexels-photo-5329909.jpeg" 
+            src="https://thumbs.dreamstime.com/z/golden-lotus-tank-gopurams-meenakshi-amman-temple-historic-hindu-located-madurai-city-tamil-nadu-aug-india-163369842.jpg" 
             alt="Meenakshi Amman Temple"
             className="w-full h-full object-cover opacity-30"
           />
