@@ -1,0 +1,158 @@
+{
+    "app": {
+      "title": "Explorateur du Patrimoine du Tamil Nadu"
+    },
+    "header": {
+      "siteName": "Patrimoine TN"
+    },
+    "nav": {
+      "home": "Accueil",
+      "explore": "Explorer",
+      "about": "À propos",
+      "profile": "Profil",
+      "language": "Langue"
+    },
+    "voice": {
+      "enable": "Assistant Vocal",
+      "disable": "Désactiver la Voix",
+      "listening": "Écoute en cours...",
+      "speak": "Parlez maintenant"
+    },
+    "auth": {
+      "login": "Connexion",
+      "loginBtn": "Se connecter",
+      "loginSubtitle": "Bienvenue ! Veuillez vous connecter à votre compte",
+      "loggingIn": "Connexion en cours...",
+      "logout": "Se déconnecter",
+      "createAccount": "Créer un compte",
+      "signupBtn": "S'inscrire",
+      "signupSubtitle": "Rejoignez-nous pour découvrir le riche patrimoine culturel du Tamil Nadu",
+      "signingUp": "Création du compte...",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom complet",
+      "forgotPassword": "Mot de passe oublié ?",
+      "rememberMe": "Se souvenir de moi",
+      "noAccount": "Pas de compte ?",
+      "signupNow": "S'inscrire maintenant",
+      "alreadyAccount": "Vous avez déjà un compte ?",
+      "loginHere": "Connectez-vous ici",
+      "agreeTerms": "J'accepte les",
+      "termsLink": "Conditions d'utilisation",
+      "errors": {
+        "allRequired": "Tous les champs sont requis",
+        "passwordsMatch": "Les mots de passe ne correspondent pas",
+        "passwordLength": "Le mot de passe doit comporter au moins 8 caractères",
+        "invalidCredentials": "Identifiant ou mot de passe invalide",
+        "signupFailed": "Échec de la création du compte. Veuillez réessayer.",
+        "general": "Une erreur est survenue. Veuillez réessayer."
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Découvrez le riche patrimoine du Tamil Nadu",
+        "subtitle": "Explorez les anciens temples, monuments historiques et merveilles culturelles avec des visites guidées vocales personnalisées",
+        "exploreBtn": "Explorer les sites",
+        "voiceBtn": "Guide vocal",
+        "searchPlaceholder": "Recherchez des sites patrimoniaux, temples, forts..."
+      },
+      "featuredSites": {
+        "title": "Sites patrimoniaux vedettes",
+        "subtitle": "Plongez dans les sites culturels les plus emblématiques du Tamil Nadu"
+      },
+      "categories": {
+        "title": "Parcourir par catégorie",
+        "subtitle": "Découvrez des sites patrimoniaux selon vos intérêts"
+      },
+      "popularSites": {
+        "title": "Destinations populaires",
+        "subtitle": "Les sites patrimoniaux les plus visités du Tamil Nadu",
+        "viewAllBtn": "Voir toutes les destinations"
+      },
+      "testimonials": {
+        "title": "Expériences des visiteurs",
+        "subtitle": "Écoutez ceux qui ont exploré le patrimoine du Tamil Nadu"
+      },
+      "cta": {
+        "title": "Commencez votre voyage patrimonial",
+        "description": "Créez un compte pour sauvegarder vos sites favoris, obtenir des recommandations personnalisées et accéder à des fonctionnalités exclusives de guide vocal.",
+        "button": "Inscrivez-vous maintenant"
+      }
+    },
+    "categories": {
+      "temples": "Temples",
+      "forts": "Forts et palais",
+      "monuments": "Monuments",
+      "museums": "Musées",
+      "religious": "Sites religieux",
+      "beaches": "Plages et côtes",
+      "cities": "Villes historiques",
+      "architecture": "Architecture"
+    },
+    "heritage": {
+      "visitBtn": "Planifier la visite",
+      "voiceGuideBtn": "Guide vocal",
+      "bookmarkBtn": "Sauvegarder",
+      "bookmarkedBtn": "Sauvegardé",
+      "overview": "Aperçu",
+      "history": "Histoire",
+      "architecture": "Architecture",
+      "openingHours": "Heures d'ouverture",
+      "entryFee": "Frais d'entrée",
+      "bestTime": "Meilleure période pour visiter",
+      "nearbyAttractions": "Attractions à proximité",
+      "reviews": "Avis des visiteurs",
+      "rating": "Note",
+      "writeReview": "Écrire un avis",
+      "visitingTips": "Conseils de visite",
+      "readMore": "Lire la suite",
+      "showLess": "Afficher moins"
+    },
+    "chatbot": {
+      "title": "Assistant Patrimonial",
+      "welcomeMessage": "Bonjour ! Je suis votre guide du patrimoine du Tamil Nadu. Comment puis-je vous aider à découvrir les trésors culturels du Tamil Nadu aujourd'hui ?",
+      "inputPlaceholder": "Tapez votre question...",
+      "responses": {
+        "greeting": "Bonjour ! Je suis ici pour vous aider à explorer le riche patrimoine du Tamil Nadu. Que souhaitez-vous savoir ?",
+        "temples": "Le Tamil Nadu abrite des temples magnifiques comme le Meenakshi Amman Temple à Madurai, le Brihadeeswarar Temple à Thanjavur et le Shore Temple à Mahabalipuram. Ces temples témoignent de l'exceptionnelle architecture dravidienne. Souhaitez-vous des informations spécifiques sur l'un de ces temples ?",
+        "forts": "Le Tamil Nadu possède plusieurs forts historiques, dont le Vellore Fort, le Gingee Fort (l'un des forts les plus imprenables d'Inde) et le Dindigul Fort. Ces structures racontent l'histoire de divers royaumes et de leurs stratégies militaires. Voulez-vous en savoir plus ?",
+        "museums": "Le Government Museum de Chennai est l'un des plus anciens musées d'Inde. D'autres musées notables incluent le Fort Museum au Fort St. George et le Tamil Nadu Science and Technology Centre. Ces musées abritent des artefacts datant des anciennes civilisations tamoules.",
+        "recommendations": "Pour les visiteurs débutants, je recommande de commencer par les sites classés au patrimoine mondial de l'UNESCO comme les Grands Temples Chola Vivants et les monuments de Mahabalipuram. Le Meenakshi Temple à Madurai est également incontournable en raison de son architecture impressionnante et de sa signification culturelle.",
+        "visitingHours": "La plupart des sites patrimoniaux du Tamil Nadu sont ouverts de 6 h à 18 h. Les temples ferment souvent l'après-midi de 13 h à 16 h. Les musées sont généralement ouverts de 9 h 30 à 17 h et sont fermés les jours fériés. Souhaitez-vous des informations sur un site spécifique ?",
+        "thanks": "De rien ! Profitez de l'exploration du riche patrimoine culturel du Tamil Nadu. N'hésitez pas à poser d'autres questions si vous avez besoin d'informations supplémentaires !",
+        "default": "C'est une question intéressante sur le patrimoine du Tamil Nadu. Souhaitez-vous que je vous fournisse des informations générales sur les sites patrimoniaux populaires, ou cherchez-vous quelque chose de spécifique comme des temples, des forts ou des festivals culturels ?"
+      }
+    },
+    "profile": {
+      "viewProfile": "Mon profil",
+      "savedSites": "Sites sauvegardés",
+      "recentVisits": "Visites récentes",
+      "preferences": "Préférences",
+      "accountSettings": "Paramètres du compte",
+      "languagePreference": "Préférence de langue",
+      "notificationSettings": "Paramètres de notification"
+    },
+    "footer": {
+      "about": {
+        "title": "À propos de nous",
+        "description": "Tamil Nadu Heritage Explorer est dédié à la présentation du riche patrimoine culturel du Tamil Nadu à travers des expériences numériques immersives et accessibles."
+      },
+      "quickLinks": {
+        "title": "Liens rapides"
+      },
+      "categories": {
+        "title": "Catégories"
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "address": "123 Heritage Tower, Anna Salai, Chennai, Tamil Nadu 600002, Inde"
+      },
+      "copyright": "Tamil Nadu Heritage Explorer. Tous droits réservés."
+    }
+  }
+  

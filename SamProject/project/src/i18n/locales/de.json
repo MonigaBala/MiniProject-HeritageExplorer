@@ -1,0 +1,158 @@
+{
+    "app": {
+      "title": "Tamil Nadu Heritage Explorer"
+    },
+    "header": {
+      "siteName": "Heritage TN"
+    },
+    "nav": {
+      "home": "Startseite",
+      "explore": "Erforschen",
+      "about": "Über uns",
+      "profile": "Profil",
+      "language": "Sprache"
+    },
+    "voice": {
+      "enable": "Sprachassistent",
+      "disable": "Sprachassistent deaktivieren",
+      "listening": "Hört zu...",
+      "speak": "Jetzt sprechen"
+    },
+    "auth": {
+      "login": "Anmelden",
+      "loginBtn": "Einloggen",
+      "loginSubtitle": "Willkommen! Bitte melden Sie sich mit Ihrem Konto an",
+      "loggingIn": "Anmeldung wird durchgeführt...",
+      "logout": "Abmelden",
+      "createAccount": "Konto erstellen",
+      "signupBtn": "Registrieren",
+      "signupSubtitle": "Treten Sie uns bei, um das reiche kulturelle Erbe von Tamil Nadu zu entdecken",
+      "signingUp": "Konto wird erstellt...",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "Ihre.E-Mail@beispiel.com",
+      "password": "Passwort",
+      "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+      "confirmPassword": "Passwort bestätigen",
+      "confirmPasswordPlaceholder": "Bestätigen Sie Ihr Passwort",
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Ihr vollständiger Name",
+      "forgotPassword": "Passwort vergessen?",
+      "rememberMe": "Angemeldet bleiben",
+      "noAccount": "Kein Konto?",
+      "signupNow": "Jetzt registrieren",
+      "alreadyAccount": "Haben Sie bereits ein Konto?",
+      "loginHere": "Hier einloggen",
+      "agreeTerms": "Ich akzeptiere die",
+      "termsLink": "Nutzungsbedingungen",
+      "errors": {
+        "allRequired": "Alle Felder sind erforderlich",
+        "passwordsMatch": "Die Passwörter stimmen nicht überein",
+        "passwordLength": "Das Passwort muss mindestens 8 Zeichen lang sein",
+        "invalidCredentials": "Ungültige Anmeldeinformationen",
+        "signupFailed": "Die Kontoerstellung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
+        "general": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Entdecken Sie das reiche Erbe von Tamil Nadu",
+        "subtitle": "Erforschen Sie antike Tempel, historische Denkmäler und kulturelle Wunder mit personalisierten Audioguide-Touren",
+        "exploreBtn": "Erforschen Sie die Stätten",
+        "voiceBtn": "Sprachführer",
+        "searchPlaceholder": "Suchen Sie nach Erbstätten, Tempeln, Festungen..."
+      },
+      "featuredSites": {
+        "title": "Herausragende Erbstätten",
+        "subtitle": "Tauchen Sie ein in die bekanntesten kulturellen Stätten von Tamil Nadu"
+      },
+      "categories": {
+        "title": "Durchsuchen nach Kategorie",
+        "subtitle": "Entdecken Sie Erbstätten basierend auf Ihren Interessen"
+      },
+      "popularSites": {
+        "title": "Beliebte Ziele",
+        "subtitle": "Die meistbesuchten Erbstätten in Tamil Nadu",
+        "viewAllBtn": "Alle Ziele anzeigen"
+      },
+      "testimonials": {
+        "title": "Erfahrungen von Besuchern",
+        "subtitle": "Hören Sie von denen, die das Erbe von Tamil Nadu entdeckt haben"
+      },
+      "cta": {
+        "title": "Starten Sie Ihre Erbesreise",
+        "description": "Erstellen Sie ein Konto, um Ihre Lieblingsorte zu speichern, personalisierte Empfehlungen zu erhalten und auf exklusive Funktionen des Audioguides zuzugreifen.",
+        "button": "Jetzt registrieren"
+      }
+    },
+    "categories": {
+      "temples": "Tempel",
+      "forts": "Festungen und Paläste",
+      "monuments": "Denkmäler",
+      "museums": "Museen",
+      "religious": "Religiöse Stätten",
+      "beaches": "Strände und Küsten",
+      "cities": "Historische Städte",
+      "architecture": "Architektur"
+    },
+    "heritage": {
+      "visitBtn": "Besuch planen",
+      "voiceGuideBtn": "Sprachführer",
+      "bookmarkBtn": "Speichern",
+      "bookmarkedBtn": "Gespeichert",
+      "overview": "Überblick",
+      "history": "Geschichte",
+      "architecture": "Architektur",
+      "openingHours": "Öffnungszeiten",
+      "entryFee": "Eintrittspreis",
+      "bestTime": "Beste Besuchszeit",
+      "nearbyAttractions": "Attraktionen in der Nähe",
+      "reviews": "Besucherbewertungen",
+      "rating": "Bewertung",
+      "writeReview": "Bewertung schreiben",
+      "visitingTips": "Besuchertipps",
+      "readMore": "Mehr lesen",
+      "showLess": "Weniger anzeigen"
+    },
+    "chatbot": {
+      "title": "Erbe-Assistent",
+      "welcomeMessage": "Hallo! Ich bin Ihr Erbe-Assistent für Tamil Nadu. Wie kann ich Ihnen helfen, das reiche Erbe von Tamil Nadu heute zu entdecken?",
+      "inputPlaceholder": "Geben Sie Ihre Frage ein...",
+      "responses": {
+        "greeting": "Hallo! Ich bin hier, um Ihnen zu helfen, das reiche Erbe von Tamil Nadu zu entdecken. Was möchten Sie wissen?",
+        "temples": "Tamil Nadu beherbergt wunderschöne Tempel wie den Meenakshi Amman Tempel in Madurai, den Brihadeeswarar Tempel in Thanjavur und den Shore Tempel in Mahabalipuram. Diese Tempel sind ein Beispiel für die außergewöhnliche dravidische Architektur. Möchten Sie spezifische Informationen zu einem dieser Tempel?",
+        "forts": "Tamil Nadu hat viele historische Festungen, darunter das Vellore Fort, das Gingee Fort (eine der unzugänglichsten Festungen Indiens) und das Dindigul Fort. Diese Festungen erzählen die Geschichte verschiedener Königreiche und ihrer militärischen Strategien. Möchten Sie mehr erfahren?",
+        "museums": "Das Government Museum in Chennai ist eines der ältesten Museen Indiens. Weitere bemerkenswerte Museen sind das Fort Museum im Fort St. George und das Tamil Nadu Science and Technology Centre. Diese Museen beherbergen Artefakte, die aus der antiken tamilischen Zivilisation stammen.",
+        "recommendations": "Für Anfänger empfehle ich, mit den UNESCO-Weltkulturerbestätten wie den Großen Chola-Tempeln und den Monumenten von Mahabalipuram zu beginnen. Der Meenakshi-Tempel in Madurai ist ebenfalls ein Muss aufgrund seiner beeindruckenden Architektur und kulturellen Bedeutung.",
+        "visitingHours": "Die meisten Erbstätten in Tamil Nadu sind von 6:00 bis 18:00 Uhr geöffnet. Tempel schließen oft von 13:00 bis 16:00 Uhr für eine Pause. Museen sind in der Regel von 9:30 bis 17:00 Uhr geöffnet und an Feiertagen geschlossen. Möchten Sie Informationen zu einer bestimmten Stätte?",
+        "thanks": "Gern geschehen! Genießen Sie die Entdeckung des reichen kulturellen Erbes von Tamil Nadu. Zögern Sie nicht, weitere Fragen zu stellen, wenn Sie mehr Informationen benötigen!",
+        "default": "Das ist eine interessante Frage zum Erbe von Tamil Nadu. Möchten Sie allgemeine Informationen zu beliebten Erbstätten oder suchen Sie nach etwas Speziellem wie Tempeln, Festungen oder kulturellen Festen?"
+      }
+    },
+    "profile": {
+      "viewProfile": "Mein Profil",
+      "savedSites": "Gespeicherte Stätten",
+      "recentVisits": "Kürzliche Besuche",
+      "preferences": "Einstellungen",
+      "accountSettings": "Kontoeinstellungen",
+      "languagePreference": "Spracheinstellung",
+      "notificationSettings": "Benachrichtigungseinstellungen"
+    },
+    "footer": {
+      "about": {
+        "title": "Über uns",
+        "description": "Tamil Nadu Heritage Explorer ist darauf spezialisiert, das reiche kulturelle Erbe von Tamil Nadu durch immersive digitale Erlebnisse und zugängliche Audioguides zu präsentieren."
+      },
+      "quickLinks": {
+        "title": "Schnellzugriff"
+      },
+      "categories": {
+        "title": "Kategorien"
+      },
+      "contact": {
+        "title": "Kontaktieren Sie uns",
+        "address": "123 Heritage Tower, Anna Salai, Chennai, Tamil Nadu 600002, Indien"
+      },
+      "copyright": "Tamil Nadu Heritage Explorer. Alle Rechte vorbehalten."
+    }
+  }
+  
